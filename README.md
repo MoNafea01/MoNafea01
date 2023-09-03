@@ -3,13 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=436&lines=Welcome+To+my+Github+Profile+.+.;I'm+interested+in+DS+%26+ML.)](https://git.io/typing-svg)
 ### I'm a CSE student from Egypt, and I'm passionate about Data Science & Machine Learning.
 
-  ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="center">
-    <a href="mailto:monafe301@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://wa.me/+201129330746"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-    <a href="hhttps://www.linkedin.com/in/monafea01"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://www.facebook.com/monafea01"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-</p>
+  
 
 ## Skills:
 ### Languages:
@@ -42,7 +36,14 @@
   <a href="https://www.linkedin.com/in/monafea01/">
     <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-453-blue?color=0d1117&logo=linkedin">
   </a>
-
+  
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<p align="center">
+    <a href="mailto:monafe301@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://wa.me/+201129330746"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+    <a href="hhttps://www.linkedin.com/in/monafea01"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.facebook.com/monafea01"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+</p>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoNafea01&layout=compact)
