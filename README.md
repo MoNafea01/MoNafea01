@@ -1,17 +1,31 @@
-### Hi there, I'm Mohamed Nafea! 👋
-
-
-I'm a CSE student from Egypt, and I'm passionate about Data Science & Machine Learning.
-
-📫 You Can Reach Me through these links:
-
-<a href="https://www.linkedin.com/in/monafea01" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" style="border-radius: 8px;"/></a>
-<a href="https://www.facebook.com/monafea01" target="_blank"><img src="https://img.shields.io/badge/-FaceBook-385490?style=for-the-badge&logo=Facebook&logoColor=white" style="border-radius: 8px;"/></a>
-<a href="mailto:monafe301@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=Google&logoColor=white" style="border-radius: 8px;"/></a>
-<a href="https://wa.me/+201129330746" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-32ad1e?style=for-the-badge&logo=Whatsapp&logoColor=white" style="border-radius: 8px;"/></a>
+# Hi there, I'm Mohamed Nafea! 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=436&lines=Welcome+To+my+Github+Profile+.+.;I'm+interested+in+DS+%26+ML.)](https://git.io/typing-svg)
+### I'm a CSE student from Egypt, and I'm passionate about Data Science & Machine Learning.
 
+  ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<p align="center">
+    <a href="mailto:monafe301@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://wa.me/+201129330746"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+    <a href="hhttps://www.linkedin.com/in/monafea01"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.facebook.com/monafea01"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+</p>
+
+## Skills:
+### Languages:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-283395?style=for-the-badge&logo=C&logoColor=white)&nbsp;
+### ML/DL:
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+### IDEs:
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+## Stats:
 <p align="center">
   <a href="https://github.com/MoNafea01/MoNafea01">
     <img src="https://komarev.com/ghpvc/?username=MoNafea01&color=0d1117" alt="views" />
@@ -28,6 +42,8 @@ I'm a CSE student from Egypt, and I'm passionate about Data Science & Machine Le
   <a href="https://www.linkedin.com/in/monafea01/">
     <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-453-blue?color=0d1117&logo=linkedin">
   </a>
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoNafea01&layout=compact)
 </p>
