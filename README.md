@@ -5,10 +5,9 @@ Hi! I'm Mohamed  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giph
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=436&lines=Welcome+To+my+Github+Profile+.+.+.;I'm+interested+in+DS+%26+ML.)](https://git.io/typing-svg)
 
 
-### I'm a CSE student from Egypt, and I'm passionate about Data Science & Machine Learning.
+### A passionate Machine learning / Computer Vision Engineer.
 
-## Skills:
-### Languages & Tools:
+## Languages & Tools:
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
