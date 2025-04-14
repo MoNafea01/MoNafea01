@@ -21,6 +21,9 @@ Hi! I'm Mohamed  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giph
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Django.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Light.svg" alt="pycharm" width="40" height="40"/> </a>
     <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ROS-Dark.svg" alt="ros" width="40" height="40"/> </a>
+</p>
+
+<p align="left">
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
      <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a>
