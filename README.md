@@ -14,6 +14,12 @@ Hi! I'm Mohamed  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giph
     <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/> </a>
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Dark.svg" alt="matlab" width="40" height="40"/> </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="40" height="40"/> </a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/> </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="40" height="40"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/> </a>
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/> </a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Django.svg" alt="postman" width="40" height="40"/> </a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Light.svg" alt="pycharm" width="40" height="40"/> </a>
     <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ROS-Dark.svg" alt="ros" width="40" height="40"/> </a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
@@ -26,13 +32,7 @@ Hi! I'm Mohamed  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giph
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
     <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=sop9ROXku5bb&format=png" alt="hugging-face" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/> </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="40" height="40"/> </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Light.svg" alt="pycharm" width="40" height="40"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/> </a>
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
 
