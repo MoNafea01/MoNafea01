@@ -5,7 +5,7 @@ Hi! I'm Mohamed  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giph
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=436&lines=Welcome+To+my+Github+Profile+.+.+.;I'm+interested+in+DS+%26+ML.)](https://git.io/typing-svg)
 
 
-### A passionate Machine learning / Computer Vision Engineer.
+### A passionate Machine Learning / Deep Learning Engineer.
 
 ## Languages & Tools:
 <p align="left">
