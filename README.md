@@ -4,8 +4,21 @@ Hi! I'm Mohamed  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giph
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=436&lines=Welcome+To+my+Github+Profile+.+.+.;I'm+interested+in+DS+%26+ML.)](https://git.io/typing-svg)
 
+```python
+class AIEngineer:
+  def __init__(self) -> None:
+      self.name = "Mohamed Nafea"
+      self.role = "AI / ML Engineer"
+      self.languages = ["English", "Arabic"]
+      self.about = "A passionate AI Engineer."
+  
+  def __str__(self) -> str:
+      return f"Hi, I'm {self.name}.\n{self.about}"
 
-### A passionate AI Engineer.
+if __name__ == "__main__":
+    me = AIEngineer()
+    print(me)
+```
 
 ## Languages & Tools:
 <p align="left">
