@@ -78,6 +78,4 @@ if __name__ == "__main__":
   <a href="https://www.linkedin.com/in/monafea01/">
     <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-453-blue?color=0d1117&logo=linkedin">
   </a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoNafea01&layout=compact)
 </p>
